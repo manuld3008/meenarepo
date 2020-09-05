@@ -8,3 +8,4 @@ local line1
 remote line1
 
 adding tag
+tag2
